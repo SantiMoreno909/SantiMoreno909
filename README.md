@@ -4,7 +4,7 @@
 
 ### Me presento
 
-Mi nombre ya lo viste, así que allí no hay misterio. Tengo 24 años, soy apasionado por la programación, las empresas y los proyectos de triple impacto.
+Mi nombre ya lo viste, así que allí no hay misterio. Tengo 25 años, soy apasionado por la programación, las empresas y los proyectos de triple impacto.
 
 Actualmente estoy formandome en Digital House para ser Desarrollador Full Stack Node. Podrás encontrar un repositorio llamado **grupo_6_LaCasaca** con el proyecto que, junto a mis compañeros, estamos creando.
 
